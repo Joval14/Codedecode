@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 clear
 echo -n "Enter your name: "
